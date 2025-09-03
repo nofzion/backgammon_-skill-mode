@@ -1,0 +1,6 @@
+{
+  "name": "Backgammon: Skill Mode",
+  "description": "A pure strategy version of backgammon where you choose your dice rolls. No luck involved.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
